@@ -14,7 +14,7 @@ export default {
   props: ["id"],
   data() {
     return {
-      event: {}
+      event: null
     };
   },
   created() {
